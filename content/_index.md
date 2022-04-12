@@ -7,4 +7,8 @@ Hola ✌️  soy el explorer **Alberto de jesus aviña aguilar** y este es mi bl
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas:
+
+Mejorar mis conocimientos y buenas practicas de desarrollo para ofrecerles a las personas mejores desarrollos y que puedan realizar sus tareas de una manera mas efectiva
+
 🚀
