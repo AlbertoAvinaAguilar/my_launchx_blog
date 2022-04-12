@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://albertoavinaaguilar.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje Alberto De Jesus Aviña Aguilar"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "@itecnologia"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
