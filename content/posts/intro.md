@@ -1,7 +1,9 @@
 ---
 title: "Kotlin"
-date: 2022-02-21T18:16:21-06:00
-description: '- 1
+date: 2022-04-14T11:22
+description: '- 1 habilitar la vinculación de vista (build.gradle -> seccion android -> buildFeatures {
+    viewBinding = true
+}) 
 -2
 -3
 -4
