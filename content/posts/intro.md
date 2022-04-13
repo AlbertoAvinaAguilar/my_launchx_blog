@@ -10,7 +10,4 @@ Usa este post para anotar tus expectativas de la misión.
 
 ---
 title: "Kotlin"
-
-
-
 ---
